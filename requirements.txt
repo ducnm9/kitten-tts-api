@@ -1,4 +1,4 @@
 fastapi
-uvicorn[standard]
+uvicorn
 soundfile
 git+https://github.com/KittenML/KittenTTS
