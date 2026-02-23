@@ -1,0 +1,4 @@
+fastapi
+uvicorn[standard]
+soundfile
+git+https://github.com/KittenML/KittenTTS
